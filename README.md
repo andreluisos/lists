@@ -2,7 +2,7 @@ This repository contains **public** lists of original titles, of each content pr
 
 The lists and this README are automatically updated.
 
-Last check: **2020-12-13**.
+Last check: **2020-12-14**.
 
 Feel free to [request data, contribute or report misinformation](https://github.com/andreluisos/lists/issues).
 
@@ -21,11 +21,11 @@ Source: **Wikipedia**.
 - [Total films](https://raw.githubusercontent.com/andreluisos/list/main/hulu_films): 31
 
 ## Disney+ originals
-- [Total series](https://raw.githubusercontent.com/andreluisos/list/main/disney_series): 52
+- [Total series](https://raw.githubusercontent.com/andreluisos/list/main/disney_series): 53
 - [Total films](https://raw.githubusercontent.com/andreluisos/list/main/disney_films): 36
 
 ## Apple+ originals
-- [Total series](https://raw.githubusercontent.com/andreluisos/list/main/apple_series): 40
+- [Total series](https://raw.githubusercontent.com/andreluisos/list/main/apple_series): 39
 - [Total films](https://raw.githubusercontent.com/andreluisos/list/main/apple_films): 15
 
 ## Full serialized content

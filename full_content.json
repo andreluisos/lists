@@ -243,14 +243,13 @@
         "series": {
             "Amazing Stories": "2020",
             "Becoming You": "2020",
-            "Calls": "2020",
+            "Calls": "2021",
             "Central Park": "2020",
             "Dear...": "2020",
             "Defending Jacob": "2020",
             "Dickinson": "2019",
             "Doug Unplugs": "2020",
             "Earth At Night In Color": "2020",
-            "Earthsound": "2020",
             "For All Mankind": "2019",
             "Foundation": "2021",
             "Fraggle Rock: Rock On!": "2020",
@@ -282,7 +281,7 @@
             "Trying": "2020",
             "Visible: Out on Television": "2020"
         },
-        "series_total": "40"
+        "series_total": "39"
     },
     "disney": {
         "films": {
@@ -374,11 +373,12 @@
             "The Right Stuff": "2020",
             "The Wonderful World of Mickey Mouse": "2020",
             "The World According to Jeff Goldblum": "2019",
+            "Turner & Hooch": "2022",
             "WandaVision": "2020",
             "Weird But True!": "2020",
             "Zenimation": "2020"
         },
-        "series_total": "52"
+        "series_total": "53"
     },
     "hulu": {
         "films": {
@@ -863,7 +863,7 @@
             "Our Souls at Night": "2017",
             "Out of Many, One": "2018",
             "Outlaw King": "2018",
-            "Outside The Wire": "2021",
+            "Outside the Wire": "2021",
             "Over the Moon": "2020",
             "Paddleton": "2019",
             "Paradox": "2018",
