@@ -2,7 +2,7 @@ This repository contains **public** lists of original titles, of each content pr
 
 The lists and this README are automatically updated.
 
-Last check: **2020-12-15 19:15:12.186279**.
+Last check: **2020-12-15**.
 
 Feel free to [request data, contribute or report misinformation](https://github.com/andreluisos/lists/issues).
 
