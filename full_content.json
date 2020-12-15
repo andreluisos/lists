@@ -262,7 +262,6 @@
                 "The Red Road": "2014",
                 "The Walking Dead: World Beyond": "2020",
                 "Treadstone": "2019",
-                "Upcoming": "Upco",
                 "Vikings": "2013",
                 "Wayne": "2019",
                 "White Dragon": "2018"
@@ -392,10 +391,9 @@
                 "La Templanza": "2021",
                 "Narcos vs Zombies": "2021",
                 "Operations Totems": "2021",
-                "Stan Lee's Superhero Kindergarten (co-production with Youku)": "Earl",
+                "Stan Lee's Superhero Kindergarten (co-production with Youku)": "2021",
                 "Tell Me Your Secrets": "2021",
-                "The End": "Late",
-                "The Legend of Vox Machina": "TBA;",
+                "The End": "2021",
                 "The Lord of the Rings": "2021",
                 "The Missing One": "2021",
                 "The Underground Railroad": "2021",
@@ -413,7 +411,7 @@
             }
         },
         "total_films": "71",
-        "total_series": "284"
+        "total_series": "282"
     },
     "apple": {
         "films": {
@@ -438,9 +436,7 @@
                 "Here We Are: Notes for Living on Planet Earth": "2020",
                 "Mariah Carey's Magical Christmas Special": "2020"
             },
-            "Upcoming Documentaries": {
-                "The Velvet Underground": "2021"
-            },
+            "Upcoming Documentaries": {},
             "Upcoming Feature films": {},
             "Upcoming Specials": {
                 "Untitled Peanuts Earth Day special": "2021",
@@ -511,7 +507,7 @@
                 "The Oprah Conversation": "2020"
             }
         },
-        "total_films": "19",
+        "total_films": "18",
         "total_series": "38"
     },
     "disney": {
@@ -565,10 +561,6 @@
                 "Soul": "2020",
                 "The One and Only Ivan": "2020"
             },
-            "Upcoming Documentaries": {
-                "Documentary": "nan",
-                "TBA": "nan"
-            },
             "Upcoming Feature films": {
                 "Cheaper by the Dozen": "2022",
                 "Chip 'n Dale: Rescue Rangers": "2022",
@@ -577,9 +569,6 @@
                 "Sneakerella": "2021",
                 "The Ice Age Adventures of Buck Wild": "2022",
                 "Three Men and a Baby": "2022"
-            },
-            "Upcoming Specials": {
-                "The Guardians of the Galaxy Holiday Special": "2022"
             }
         },
         "series": {
@@ -690,7 +679,7 @@
                 "Muppets Now": "2020"
             }
         },
-        "total_films": "49",
+        "total_films": "46",
         "total_series": "76"
     },
     "hulu": {
@@ -844,8 +833,7 @@
                 "National Treasure": "2017",
                 "National Treasure: Kiri": "2018",
                 "Safe Harbour": "2018",
-                "Staged": "2020",
-                "Upcoming": "Upco"
+                "Staged": "2020"
             },
             "Kids & family": {
                 "Animaniacs": "2020",
@@ -895,7 +883,7 @@
             }
         },
         "total_films": "33",
-        "total_series": "120"
+        "total_series": "119"
     },
     "netflix": {
         "films": {
@@ -1902,9 +1890,7 @@
                 "Love 101": "2020",
                 "The Gift": "2019"
             },
-            "Upcoming Adult animation": {
-                "Captain Fall": "ewed"
-            },
+            "Upcoming Adult animation": {},
             "Upcoming Anime": {
                 "Baki Hanma": "2021",
                 "Cyberpunk: Edgerunners": "2022",
@@ -1912,13 +1898,12 @@
                 "Godzilla Singular Point": "2021",
                 "High-Rise Invasion": "2021",
                 "Masters of the Universe: Revelation": "2021",
-                "Pacific Rim: The Black": "ewed",
+                "Pacific Rim: The Black": "2021",
                 "RESIDENT EVIL: Infinite Darkness": "2021",
                 "SPRIGGAN": "2021",
                 "The Way of the Househusband": "2021",
                 "Thus Spoke Kishibe Rohan": "2021",
                 "Trese": "2021",
-                "Untitled Splinter Cell anime series": "ewed",
                 "Vampire in the Garden": "2021",
                 "Yasuke": "2021"
             },
@@ -1945,7 +1930,6 @@
                 "Shut Up and Ride": "2021"
             },
             "Upcoming Drama": {
-                "Baahubali: Before the Beginning": "ewed",
                 "Behind Her Eyes": "2021",
                 "Blood Red Sky": "2021",
                 "Clickbait": "2021",
@@ -2018,6 +2002,6 @@
             }
         },
         "total_films": "595",
-        "total_series": "438"
+        "total_series": "435"
     }
 }
