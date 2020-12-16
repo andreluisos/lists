@@ -2,7 +2,7 @@ This repository contains **public** lists of original titles, of each content pr
 
 The lists and this README are automatically updated.
 
-Last check: **2020-12-15**.
+Last check: **2020-12-16**.
 
 Feel free to [request data, contribute or report misinformation](https://github.com/andreluisos/lists/issues).
 
@@ -10,7 +10,7 @@ Source: **Wikipedia**.
 
 ## Netflix originals
 - [Total series](https://raw.githubusercontent.com/andreluisos/list/main/netflix_series): 435
-- [Total films](https://raw.githubusercontent.com/andreluisos/list/main/netflix_films): 595
+- [Total films](https://raw.githubusercontent.com/andreluisos/list/main/netflix_films): 596
 
 ## Amazon Prime originals
 - [Total series](https://raw.githubusercontent.com/andreluisos/list/main/amazon_series): 282

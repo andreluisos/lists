@@ -149,7 +149,7 @@
                 "Absentia (season 3)": "2020",
                 "Der Lack ist ab (season 4\u20135)": "2017",
                 "Pastewka (season 8\u201310)": "2018",
-                "The Expanse (season 4)": "2019",
+                "The Expanse (season 4\u20135)": "2019",
                 "Vikings (season 6B)": "2020"
             },
             "Docuseries": {
@@ -574,6 +574,7 @@
         "series": {
             "Animation": {
                 "Forky Asks a Question": "2019",
+                "Pixar Popcorn": "2020",
                 "Short Circuit": "2020",
                 "SparkShorts": "2019",
                 "The Wonderful World of Mickey Mouse": "2020",
@@ -643,7 +644,6 @@
                 "Iw\u00e1j\u00fa": "2022",
                 "Moana": "2023",
                 "Monsters at Work": "2021",
-                "Pixar Popcorn": "2021",
                 "Star Wars: The Bad Batch": "2021",
                 "Star Wars: Visions": "2021",
                 "Tiana ": "2023",
@@ -1458,6 +1458,7 @@
                 "Fear Street": "2021",
                 "Fear Street 2": "2021",
                 "Fear Street 3": "2021",
+                "Forever Rich": "2021",
                 "King of Boys 2": "2021",
                 "Loud House": "2021",
                 "Lulli": "2021",
@@ -2001,7 +2002,7 @@
                 "Mystery Lab": "2020"
             }
         },
-        "total_films": "595",
+        "total_films": "596",
         "total_series": "435"
     }
 }
