@@ -513,15 +513,23 @@
     "disney": {
         "films": {
             "Documentaries": {
-                "Dolphin Reef": "2020",
-                "Elephant": "2020",
-                "Folklore: The Long Pond Studio Sessions": "2020",
-                "Howard": "2020",
-                "Marvel Studios: Expanding the Universe": "2019",
-                "One Day at Disney": "2019"
+                "Mulan": "2020",
+                "Raya and the Last Dragon": "2021"
             },
             "Exclusive international originals": {
-                "Sea of Plastic": "2020"
+                "A Celebration of the Music from Coco": "2020",
+                "Arendelle Castle Yule Log": "2019",
+                "Arendelle Castle Yule Log 2.0.": "2020",
+                "Black Is King": "2020",
+                "Diving with Dolphins": "2020",
+                "Dory's Reef Cam": "2020",
+                "Hamilton: History Has Its Eyes on You": "2020",
+                "In the Footsteps of Elephant": "2020",
+                "Lamp Life": "2020",
+                "Once Upon a Snowman": "2020",
+                "Penguins: Life on the Edge": "2020",
+                "The LEGO Star Wars Holiday Special": "2020",
+                "The Undefeated Presents: Hamilton In-Depth": "2020"
             },
             "Originals": {
                 "Black Beauty": "2020",
@@ -539,42 +547,27 @@
                 "Togo": "2019"
             },
             "Specials": {
-                "A Celebration of the Music from Coco": "2020",
-                "Arendelle Castle Yule Log": "2019",
-                "Arendelle Castle Yule Log 2.0.": "2020",
-                "Black Is King": "2020",
-                "Diving with Dolphins": "2020",
-                "Dory's Reef Cam": "2020",
-                "Hamilton: History Has Its Eyes on You": "2020",
-                "In the Footsteps of Elephant": "2020",
-                "Lamp Life": "2020",
-                "Once Upon a Snowman": "2020",
-                "Penguins: Life on the Edge": "2020",
-                "The LEGO Star Wars Holiday Special": "2020",
-                "The Undefeated Presents: Hamilton In-Depth": "2020"
+                "Dolphin Reef": "2020",
+                "Elephant": "2020",
+                "Folklore: The Long Pond Studio Sessions": "2020",
+                "Howard": "2020",
+                "Marvel Studios: Expanding the Universe": "2019",
+                "One Day at Disney": "2019"
             },
             "Streaming exclusively": {
                 "Artemis Fowl": "2020",
                 "Hamilton": "2020",
-                "Mulan": "2020",
-                "Raya and the Last Dragon": "2021",
                 "Soul": "2020",
                 "The One and Only Ivan": "2020"
             },
             "Upcoming Feature films": {
-                "Cheaper by the Dozen": "2022",
-                "Chip 'n Dale: Rescue Rangers": "2022",
-                "Diary of a Wimpy Kid": "2021",
-                "Night at the Museum: Kahmunrah Rises Again": "2021",
-                "Sneakerella": "2021",
-                "The Ice Age Adventures of Buck Wild": "2022",
-                "Three Men and a Baby": "2022"
+                "Sea of Plastic": "2020"
             }
         },
         "series": {
             "Animation": {
                 "Forky Asks a Question": "2019",
-                "Pixar Popcorn": "2020",
+                "Pixar Popcorn": "2021",
                 "Short Circuit": "2020",
                 "SparkShorts": "2019",
                 "The Wonderful World of Mickey Mouse": "2020",
@@ -679,7 +672,7 @@
                 "Muppets Now": "2020"
             }
         },
-        "total_films": "46",
+        "total_films": "39",
         "total_series": "76"
     },
     "hulu": {
@@ -1035,6 +1028,7 @@
                 "The White Helmets": "2016",
                 "They'll Love Me When I'm Dead": "2018",
                 "Tig": "2015",
+                "Tony Parker: The Final Shot": "2021",
                 "Tony Robbins: I Am Not Your Guru": "2016",
                 "Travis Scott: Look Mom I Can Fly": "2019",
                 "Two Catalonias": "2018",
@@ -1140,6 +1134,7 @@
                 "Fearless": "2020",
                 "Feel the Beat": "2020",
                 "Finding Agnes": "2020",
+                "Finding Ohana": "2021",
                 "Firebrand": "2019",
                 "First Match": "2018",
                 "First They Killed My Father": "2017",
@@ -1237,6 +1232,7 @@
                 "Project Power": "2020",
                 "Raat Akeli Hai": "2020",
                 "Rajma Chawal": "2018",
+                "Ratones Paranoicos: The Band that Rocked Argentina": "2021",
                 "Rattlesnake": "2019",
                 "Rebecca": "2020",
                 "Rebirth": "2016",
@@ -1348,6 +1344,7 @@
                 "The White Tiger": "2021",
                 "The Willoughbys": "2020",
                 "The Wrong Missy": "2020",
+                "The Yin Yang Master: Dream of Eternity": "2021",
                 "Tigertail": "2020",
                 "Time to Hunt": "2020",
                 "To All the Boys I've Loved Before": "2018",
@@ -1459,6 +1456,7 @@
                 "Fear Street 2": "2021",
                 "Fear Street 3": "2021",
                 "Forever Rich": "2021",
+                "June & Kopi": "2021",
                 "King of Boys 2": "2021",
                 "Loud House": "2021",
                 "Lulli": "2021",
@@ -1625,6 +1623,7 @@
                 "Move": "2020",
                 "Night Stalker: The Hunt For a Serial Killer": "2021",
                 "Pandemic: How to Prevent an Outbreak": "2020",
+                "Pretend It's a City": "2021",
                 "Rise of Empires: Ottoman": "2020",
                 "Room 2806: The Accusation": "2020",
                 "Somebody Feed Phil": "2018",
@@ -1698,7 +1697,8 @@
                 "Biohackers": "2020",
                 "How to Sell Drugs Online (Fast)": "2019",
                 "Over Christmas": "2020",
-                "The Last Word": "2020"
+                "The Last Word": "2020",
+                "Tribes of Europa": "2021"
             },
             "Hindi": {
                 "Betaal": "2020",
@@ -1731,6 +1731,7 @@
                 "Fast & Furious Spy Racers": "2019",
                 "Gabby's Dollhouse": "2021",
                 "Glitch Techs": "2020",
+                "Go Dog Go": "2021",
                 "Go! Go! Cory Carson": "2020",
                 "Green Eggs and Ham": "2019",
                 "Hello Ninja": "2019",
@@ -1793,6 +1794,7 @@
                 "100 Humans": "2020",
                 "A Queen Is Born": "2020",
                 "Best Leftovers Ever!": "2020",
+                "Bling Empire": "2020",
                 "Car Masters: Rust to Riches": "2018",
                 "Cooked with Cannabis": "2020",
                 "Country Ever After": "2020",
@@ -1841,6 +1843,7 @@
                 "Always a Witch": "2019",
                 "Control Z": "2020",
                 "Dark Desire": "2020",
+                "Daughter From Another Mother": "2021",
                 "Diablero": "2018",
                 "Elite": "2018",
                 "Go! Live Your Way": "2019",
@@ -1928,6 +1931,7 @@
                 "An Interactive Experience": "2021",
                 "Headspace Guide to Sleep": "2021",
                 "Last Chance U: Basketball": "2021",
+                "Sharing the Vision of Time": "2021",
                 "Shut Up and Ride": "2021"
             },
             "Upcoming Drama": {
@@ -1948,7 +1952,6 @@
                 "Ada Twist, Scientist": "2021",
                 "Angry Birds: Summer Madness": "2021",
                 "DeadEndia": "2021",
-                "Go Dog Go": "2021",
                 "I Heart Arlo": "2021",
                 "Kajko and Kokosz": "2021",
                 "Ken and Kenny": "2022",
@@ -1965,13 +1968,11 @@
                 "Generazione 56K": "2021",
                 "Goldfish Wife": "2021",
                 "La Venganza de las Juanas": "2021",
-                "Madre solo hay dos": "2021",
                 "Otw\u00f3rz oczy": "2021",
                 "Sexify": "2021",
                 "The Girl in the Mirror": "2021",
                 "The Journalist": "2021",
                 "Todo va a estar bien": "2021",
-                "Tribes of Europa": "2021",
                 "Untitled Harald Zwart series": "2021",
                 "Young Royals": "2021",
                 "\u00bfQu\u00e9 pas\u00f3 con Sara?": "2021"
@@ -2002,7 +2003,7 @@
                 "Mystery Lab": "2020"
             }
         },
-        "total_films": "596",
-        "total_series": "435"
+        "total_films": "601",
+        "total_series": "438"
     }
 }
