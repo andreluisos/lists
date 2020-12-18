@@ -429,6 +429,7 @@
                 "Greyhound": "2020",
                 "Hala": "2019",
                 "On the Rocks": "2020",
+                "Palmer": "2021",
                 "The Banker": "2020",
                 "Wolfwalkers": "2020"
             },
@@ -507,7 +508,7 @@
                 "The Oprah Conversation": "2020"
             }
         },
-        "total_films": "18",
+        "total_films": "19",
         "total_series": "38"
     },
     "disney": {
@@ -626,6 +627,7 @@
                 "The Big Fib": "2020"
             },
             "Specials": {
+                "Disney Gallery: The Mandalorian - Making of Season 2": "2020",
                 "High School Musical: The Musical: The Holiday Special": "2020",
                 "High School Musical: The Musical: The Series: The Special": "2019",
                 "The Real Right Stuff": "2020"
@@ -673,7 +675,7 @@
             }
         },
         "total_films": "39",
-        "total_series": "76"
+        "total_series": "77"
     },
     "hulu": {
         "films": {
@@ -1257,6 +1259,7 @@
                 "Shimmer Lake": "2017",
                 "Sierra Burgess Is a Loser": "2018",
                 "Small Crimes": "2017",
+                "Sobat Ambyar": "2021",
                 "Someone Great": "2019",
                 "Sometimes": "2018",
                 "Soni": "2019",
@@ -1408,6 +1411,7 @@
                 "Octonauts & the Great Barrier Reef": "2020",
                 "Porta dos Fundos: The First Temptation of Christ": "2019",
                 "Porta dos Fundos: The Last Hangover": "2018",
+                "Qlimax: The Source": "2020",
                 "Road to Roma": "2020",
                 "Rocko's Modern Life: Static Cling": "2019",
                 "Rodney King": "2017",
@@ -1468,7 +1472,6 @@
                 "Pinocchio": "2021",
                 "Red Notice": "2021",
                 "Ride or Die": "2021",
-                "Sobat Ambyar": "2021",
                 "Space Sweepers": "2021",
                 "Summer '96": "2021",
                 "Sweet Girl": "2021",
@@ -2003,7 +2006,7 @@
                 "Mystery Lab": "2020"
             }
         },
-        "total_films": "601",
+        "total_films": "602",
         "total_series": "438"
     }
 }
